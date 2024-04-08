@@ -1,4 +1,11 @@
-### Hi there 👋
+### Who am I 
+
+上海 高中生 懂？
+I'm a high school student from Shanghai,China.
+
+自娱自乐搭了几个网站自己用。
+I have built some websites just for fun like **wangxyspeaking** and **wdnoneijuan**.
+
 
 <!--
 **Wangxy666/Wangxy666** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +21,4 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
