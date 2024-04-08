@@ -10,6 +10,14 @@ I'm a high school student from Shanghai,China.
 I have built some websites just for fun like **wangxyspeaking** and **wdnoneijuan**.
 
 
+### What can I do
+
+会C++和Python,但就是个菜鸟
+
+C++ and Python
+
+
+
 <!--
 **Wangxy666/Wangxy666** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
