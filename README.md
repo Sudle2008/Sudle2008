@@ -7,14 +7,14 @@ I'm a high school student from Shanghai,China.
 
 自娱自乐搭了几个网站自己用。
 
-I have built some websites just for fun like **wangxyspeaking** and **wdnoneijuan**.
+I have built some websites just for fun like **wdnoneijuan**.
 
 
 ### What can I do
 
 会C++和Python,但就是个菜鸟
 
-C++ and Python
+C++ and Python. emmm,just a little.
 
 
 
