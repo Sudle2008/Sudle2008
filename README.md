@@ -12,24 +12,7 @@ I have built some websites just for fun like **wdnoneijuan**.
 
 ### What can I do
 
-会C++和Python,但就是个菜鸟
+会C++和Python,但就是个菜鸟。还会点JS。
 
 C++ and Python. emmm,just a little.
-
-
-
-<!--
-**Wangxy666/Wangxy666** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-
+as well as JS.
