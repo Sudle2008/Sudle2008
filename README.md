@@ -16,3 +16,5 @@ I have built some websites just for fun like **wdnoneijuan**.
 
 C++ and Python. emmm,just a little.
 as well as JS.
+
+啊，现在闲得慌写点小说，目前没发表，开心就好
